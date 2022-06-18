@@ -1,11 +1,11 @@
 # background-generator
 
 yo
-<<<<<<< HEAD
-hey
-
 ## New heading
 =======
 hey hey
 yoo
->>>>>>> 4b91daa4385b05d85aa5257a948b84ddddfb46bb
+
+## Local development
+
+1. Open index.html in your browser
